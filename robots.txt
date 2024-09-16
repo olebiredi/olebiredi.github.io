@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olebiredi.github.io/sitemap.html.gz
+Sitemap: https://olebiredi.github.io/app/sitemap.html.gz
+Sitemap: https://olebiredi.github.io/assets/sitemap.html.gz
+Sitemap: https://olebiredi.github.io/css/sitemap.html.gz
+Sitemap: https://olebiredi.github.io/includes/sitemap.html.gz
+Sitemap: https://olebiredi.github.io/item/sitemap.html.gz
+Sitemap: https://olebiredi.github.io/src/sitemap.html.gz
